@@ -22,7 +22,7 @@ export function Header() {
           <Link href="/">La Esquina del Código</Link>
           <br />
           <Typography as="span" variant="smallText">
-            Un blog de Carlos Reyes Web
+            Un blog de Carlos Reyes
           </Typography>
         </Typography>
         <Suspense fallback={<SearchFormSkeleton />}>

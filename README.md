@@ -24,4 +24,4 @@ English in the future.
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me via
-[my website](https://www.carlosreyesweb.com).
+[my website](https://carlosreyes.me).

@@ -11,27 +11,27 @@ import {
 export const socialLinks = [
   {
     name: "Website",
-    link: "https://www.carlosreyesweb.com",
+    link: "https://carlosreyes.me",
     icon: Globe,
   },
   {
     name: "GitHub",
-    link: "https://github.com/carlosreyesweb",
+    link: "https://github.com/carlosreyesdev",
     icon: Github,
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/carlosreyesweb",
+    link: "https://www.linkedin.com/in/carlosreyesdev",
     icon: Linkedin,
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/carlosreyesweb",
+    link: "https://www.instagram.com/carlosreyesdev",
     icon: Instagram,
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/carlosreyesweb",
+    link: "https://twitter.com/carlosreyesdev_",
     icon: Twitter,
   },
 ]

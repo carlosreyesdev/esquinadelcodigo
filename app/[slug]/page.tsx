@@ -33,7 +33,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     author: {
       "@type": "Person",
       name: "Carlos Reyes",
-      url: "https://www.carlosreyesweb.com",
+      url: "https://carlosreyes.me",
     },
   }
 

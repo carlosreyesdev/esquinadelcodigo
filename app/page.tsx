@@ -32,10 +32,10 @@ export async function generateMetadata({
   return {
     title: search
       ? `Resultados para "${search}" | La Esquina del Código`
-      : "La Esquina del Código | Un blog de Carlos Reyes Web",
+      : "La Esquina del Código | Un blog de Carlos Reyes",
     description: search
       ? `Estos son los resultados que coinciden con tu búsqueda "${search}".`
-      : "Un blog sobre programación y tecnología, creado por Carlos Reyes Web.",
+      : "Un blog sobre programación y tecnología, creado por Carlos Reyes.",
     alternates: {
       canonical: "/",
     },

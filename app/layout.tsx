@@ -48,10 +48,10 @@ export const metadata: Metadata = {
     default: "La Esquina del Código",
   },
   metadataBase: new URL(clientEnvironment.baseUrl),
-  creator: "Carlos Reyes Web",
+  creator: "Carlos Reyes",
   twitter: {
     card: "summary_large_image",
-    creator: "@carlosreyesweb",
+    creator: "@carlosreyesdev_",
   },
   generator: "Next.js",
 }

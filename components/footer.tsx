@@ -8,11 +8,11 @@ export function Footer() {
         <Typography variant="p">
           Hecho con <span className="animate-pulse">💓</span> por{" "}
           <a
-            href="https://www.carlosreyesweb.com"
+            href="https://carlosreyes.me"
             target="_blank"
             className="text-[#33DFBD] underline-offset-4 hover:underline"
           >
-            Carlos Reyes Web
+            Carlos Reyes
           </a>
         </Typography>
         <SocialLinks />
