@@ -2,6 +2,7 @@ import { Footer } from "@/components/footer"
 import { Header } from "@/components/header"
 import { clientEnvironment } from "@/environment"
 import { cn } from "@/lib/utils"
+import { Analytics } from "@vercel/analytics/next"
 import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Metadata, Viewport } from "next"
 import { Roboto, Roboto_Mono } from "next/font/google"
@@ -28,6 +29,7 @@ export default function RootLayout({
         <Header />
         {children}
         <Footer />
+        <Analytics />
         <SpeedInsights />
       </body>
     </html>
